@@ -1,0 +1,19 @@
+packages/effect-cf/README.md
+  s_f0337b0ca86268::t_b06ca5cf6ed9f2 26-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b9e53147ac41a418854160f244108ca02c72b746",
+  "prompts": {},
+  "sessions": {
+    "s_f0337b0ca86268": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f607c3096ffeeiGzO6A0eUmNKM",
+        "model": "unknown"
+      },
+      "human_author": "André Lima <me@limwa.pt>"
+    }
+  }
+}
