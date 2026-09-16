@@ -1,0 +1,21 @@
+packages/effect-cf/src/WorkersAi.ts
+  s_f67afc7c1f66bc::t_f215f92545f0e3 12-14,16-22,30-31,53-55,123-132,199-201,234-253,287
+packages/effect-cf/tests/WorkersAi.test.ts
+  s_f67afc7c1f66bc::t_8298abc91aec32 5,24-28,31,40-54,70-76,97-111,124-128,165-194,201-203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6f451d5415551a98cae6df283f4b9940148e9147",
+  "prompts": {},
+  "sessions": {
+    "s_f67afc7c1f66bc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f578679a0ffe6XKn8H87ZvIdkE",
+        "model": "unknown"
+      },
+      "human_author": "André Lima <me@limwa.pt>"
+    }
+  }
+}
